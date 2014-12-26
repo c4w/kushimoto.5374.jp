@@ -23,7 +23,6 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 
 
 
-
 ## 開発チームとライセンスについて
 - 小野 祐貴(Yuki ONO)　Developer
 - 五十川 員申(Kazunobu IKAGAWA)　Developer
